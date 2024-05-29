@@ -47,7 +47,42 @@ Operadores Aritméticos:
 
 
 * Incremento e Decremento
+
+	Operadores de Incremento e Decremento:
+
+   	     Operador   Descrição                      Exemplo
+		++	Incremento			let counter = 0; counter++;
+		--	Decremento			let counter = 5; counter--;
+
+		let contador = 1
+		// '++' incremento
+		contador++
+		contador++
+
+		// '--' decremento
+		contador--
+		contador--
+		contador--
+
+		console.log(contador)
+
 * Calcular e atribuir
+
+Operadores Atribuição:
+
+    Operador   Descrição                      Exemplo
+	=	Atribuição			let x = 5;
+	+=	Adição e atribuição		let num = 10; num += 2;
+	-=	Subtração e atribuição		let num = 10; num -= 3;
+	*=	Multiplicação e atribuição	let num = 5; num *= 4;
+	/=	Divisão e atribuição		let num = 10; num /= 2;
+	%=	Módulo e atribuição		let num = 10; num %= 3;
+
+		let preco = 10
+		preco += 5  // preco = preco + 5
+		preco -= 5 // preco = preco -5
+		console.log(preco)
+
 * Definindo Escopos
 * Conclusão
 
