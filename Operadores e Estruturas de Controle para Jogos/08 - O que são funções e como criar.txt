@@ -1,0 +1,67 @@
+** O que são funções e como criar **
+
+** Sobre funções **
+
+* Entendendo o que é uma função *
+
+Ação em fazer algo = o agente que faz a mudança/ ação
+
+* Criando sua primeira função *
+
+	torrar()
+
+	function torrar(){
+	 console.log("torrando pão")
+	 injetarPao()
+	}
+
+	function injetarPao(){
+	 console.log("preparando para injetar o pão")
+	  console.log("finalizado")
+	}
+
+* Cuidados na hora de trabalhar com funções *
+
+* Comparando funções entre linguagens de programação *
+
+	function enviarDados(){
+	 let nomeDoBanco = "banco-de-dados"
+	  console.log("salvando dados em :" + nomeDoBanco)
+
+	  if( 3 === 3){
+	   console.log("senha validada")
+	  }
+	}
+
+*
+*
+*
+
+O que são funções e como cria-las
+
+**O Que São as Mágicas Chamadas "Funções" no Mundo do JavaScript?**
+
+Ei, amiguinho! Imagine que você tem uma caixa mágica que faz coisas legais sempre que você diz "Abracadabra!". As funções no JavaScript são um pouco como essas caixas mágicas. Elas são um jeito legal de juntar um monte de coisas que você quer fazer e depois dizer para o computador executar tudo de uma vez!
+
+**Como Criar e Usar Uma Função Mágica**
+
+Quer saber como criar uma função? É fácil! Dá uma olhada:
+
+	function fazerMágica() {
+	  console.log("Abracadabra! Coisas mágicas aconteceram!");
+	}
+
+Olha só, amiguinho! Nós criamos uma função chamada "fazerMágica". Agora, sempre que a gente disser "fazerMágica()" para o computador, ele vai fazer o que estiver dentro dela. No nosso exemplo, ele vai mostrar "Abracadabra! Coisas mágicas aconteceram!".
+
+**Dar e Receber Ajuda das Funções**
+
+Às vezes, precisamos dar informações para as funções, como quando você conta a um amigo o sabor de sorvete que você quer. Vamos ver como funciona:
+
+	function saudar(nome) {
+	  console.log("Olá, " + nome + "! Como você está?");
+	}
+
+	saudar("Pedrinho"); // Vai dizer Olá, Pedrinho! Como você está?
+	saudar("Mariana"); // Vai dizer Olá, Mariana! Como você está?
+
+Neste exemplo, criamos uma função chamada "saudar" que aceita um pedaço de informação chamado "nome". Sempre que chamamos a função e damos um nome, ela diz olá e pergunta como a pessoa está!
