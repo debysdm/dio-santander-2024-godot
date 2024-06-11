@@ -1,0 +1,14 @@
+** Desafios de Código: Aperfeiçoe sua Lógica e Pensamento Computacional **
+
+* Apresentação *
+
+* PBL, Lógica e Pensamento Computacional *
+* Aprendizagem Beseada em Problemas (PBL)
+* Lógica de Programação - Transformar problemas em soluções claras e ordenadas através de passos lógicos e algoritimos.
+* Pensamento Computacional - Encontrar caminhos para resolver desafios, projetar sistemas e compreender comportamentos.
+* Por que Aprender assim?
+	* Aprendizagem Ativa
+	* Transformação Digital
+	* Comunidade Protagonista
+
+* A Linguagem é só um detalhe... Como resolver Desafios de Código *
