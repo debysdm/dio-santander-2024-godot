@@ -1,0 +1,19 @@
+# A Mágica por Trás da Tela
+
+## Sobre o Expert
+
+Rafa Skiberg - Desenvolvedor de Jogos
+
+## Conhecendo a trilha
+
+https://github.com/digitalinnovationone/trilha-godot 
+
+## Visão geral sobre o processo
+
+ 
+
+## Elementos básicos de um jogo
+
+## Quem faz tudo
+
+##
