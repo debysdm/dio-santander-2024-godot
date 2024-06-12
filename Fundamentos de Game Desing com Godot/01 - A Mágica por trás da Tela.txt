@@ -1,0 +1,71 @@
+# A Mágica por Trás da Tela
+
+## Sobre o Expert
+
+Rafa Skiberg - Desenvolvedor de Jogos
+
+## Conhecendo a trilha
+
+https://github.com/digitalinnovationone/trilha-godot 
+
+## Visão geral sobre o processo
+
+* Idealização
+* Protótipo
+* Fatia Vertical
+* Alpha
+* Beta
+* Lançamento!
+
+## Elementos básicos de um jogo
+
+## Quem faz tudo
+
+Tamanho da Equipe
+* Equipe pequenas
+* Equipes Médias
+* Equipes grandes
+* Equipe gigantes
+
+Diferentes Disciplinas
+* Programação
+	* Mecânicas
+	* Conteúdo
+	* Ferramentas
+	* Física
+	* AI
+	* Interface
+	* Networking
+	* Serviços
+* Arte
+	* Conceitos
+	* Arte 2D
+	* Arte 3D
+	* Cenários
+	* Personagens
+	* Objetos
+	* Animações
+	* Efeitos Visuais
+	* Cutscenes
+* Game Desing
+	* Protótipo
+	* Conceito
+	* Regras do Jogo
+	* Mecânicas
+	* Interface
+	* Personagens
+	* Histórias
+	* Narrativa
+	* Balanceamento
+	* Conteúdo
+* Áudio
+	* Efeitos Sonoros
+	* Música
+	* Dublagem
+
+* Controle de Qualidade (QA)
+* Gerente de Negócios
+* Gerente de Comunidade
+* Produção
+* Mídia Social
+* Marketing
