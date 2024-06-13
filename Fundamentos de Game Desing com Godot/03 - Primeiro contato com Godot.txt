@@ -1,0 +1,17 @@
+# Primeiro contato com Godot
+
+## Como Instalar o Godot
+
+## Uma visão do futuro
+
+## Projetos de demonstração
+
+## Entendendo a interface do editor
+
+## Nosso primeiro script
+
+## Movimentando nosso personagem
+
+## Onde tudo começa
+
+## Nota sobre idioma do editor

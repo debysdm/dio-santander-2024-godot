@@ -1,0 +1,92 @@
+# Esboçando nossa primeira Ideia
+
+## A ideia de Milhoes
+
+## Os três Cs
+	* Character
+	* Camera
+	* Controls
+
+## Nossa primeira ideia
+
+Um jogo de cozinhas (cooking game)... o que? onde? pra quem? motivo?
+
+Preparar uma salada
+Em um reino medieval
+Para os convidados do castelo
+
+Toda noite você vai pro castelo preparar uma sala, uma salapor noite.
+Você tem que cultivar seus próprios legumes.
+
+Colher da sua hortinha e levar os ingredientes pro castelo.
+
+
+2 Loops.
+	Durante a noite você prepara a salada.
+	Durante o dia você cuida da colheira.
+
+## Estruturando nossa ideia
+
+Personagem: Cozinheiro que quer preparar uma salada pro rei. 
+Câmera: Primeira pessoa, porém fixa, estática.
+Controles: Mouse.
+	Ações: 
+		Picar/ fatiar ingredientes. 
+		Preparar comida arrastando ingredientes para um prato.
+		Plantar e colher frutos.
+		Transferir frutos da geladeira para mochila, com espaço limitado.
+
+Nome do jogo: The Royal Tomato
+
+
+## Documente tudo
+
+Ideia: The Royal Tomato
+	* Nome do Jogo
+	* Público alvo
+	* História
+	* Gameplay
+	* Pilares
+		* Personagem
+		* Câmera
+		* Controles e ações
+	* Pontos fortes
+	* Jogos similares
+
+---------------------------------------------------------------------------
+
+Gênero
+Simulação (cooking sim + farming sim)
+
+Plataformas
+Navegadores, dispositivos móveis e computadores.
+
+História
+
+Você joga como um cozinheiro de um castelo medieval que tem o sonho de preparar uma refeição para o rei,  porém seu valor ainda deve ser provado. Todos os dias Você deve cozinhar para alguém do castelo para aumentar sua reputação, até chegar o dia tão esperado
+
+Gameplay
+
+O gameplay é separado em duas mecânicas, o preparo da refeição, e o cultivo da colheita. Durante o dia você cuida da sua fazendinha, planta sementes, e colhe seus frutos. Durante a noite você vai para o castelo preparar uma refeição.
+
+O preparo da refeição envolve cortar, fatiar, picas os ingredientes da sua salada, e você ganha mais pontos por fazer isso bem.
+
+Publico Alvo
+Jogadores casuais que gostam de jogos de simulação e fantasia.
+
+Câmera 
+
+Primeira pessoa, porém fixa, estática.
+
+Controles e Ações
+
+Todas as ações são feitas com o mouse, como por exemplo picar ou fatiar ingredientes, coloca-los no prato, colher frutos na horta e plantar sementes. Transferir frutos da geladeira para mochila, com espaço limitado.
+
+
+## Mural da Inspiração
+
+Moodboard / Galeria
+
+Colocar imagens que fazem referencia as imagens do jogo.
+
+## Principais Plataformas e Tecnologia
