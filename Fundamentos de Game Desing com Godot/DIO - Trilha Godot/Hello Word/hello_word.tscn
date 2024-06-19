@@ -1,0 +1,12 @@
+[gd_scene load_steps=3 format=3 uid="uid://cl62btone3xtv"]
+
+[ext_resource type="Texture2D" uid="uid://bcekgi0p1t0l5" path="res://icon.svg" id="1_4crvq"]
+[ext_resource type="Script" path="res://player.gd" id="2_w5p8t"]
+
+[node name="Word" type="Node2D"]
+
+[node name="Player" type="Sprite2D" parent="."]
+position = Vector2(254.75, 210.75)
+scale = Vector2(1.2539, 1.09766)
+texture = ExtResource("1_4crvq")
+script = ExtResource("2_w5p8t")
