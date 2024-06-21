@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://b61rsoluxf2py"]
+
+[node name="Word" type="Node2D"]
+
+[node name="Background" type="ColorRect" parent="."]
+offset_left = -19.0
+offset_top = -32.0
+offset_right = 1174.0
+offset_bottom = 681.0
+color = Color(0.34, 0.78, 1, 1)
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_left = -21.0
+offset_top = 618.0
+offset_right = 1173.0
+offset_bottom = 658.0
+
+[node name="ColorRect2" type="ColorRect" parent="."]
+offset_left = 497.0
+offset_top = 234.0
+offset_right = 537.0
+offset_bottom = 274.0
