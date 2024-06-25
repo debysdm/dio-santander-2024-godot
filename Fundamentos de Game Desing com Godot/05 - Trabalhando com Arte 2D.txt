@@ -1,0 +1,19 @@
+# Travalhando com Arte 2D
+
+## Onde posso encontrar assets pro meu jogo?
+
+## Como importar assets no Godot?
+
+## Configurando Tilemaps e Tilesets
+
+## Adicionando colisão ao Tilesets
+
+## Criando o mapa do jogo
+
+## Criando um personagem com física
+
+## Melhorando o scrpt do personagem
+
+## Ordem de renderização
+
+## O céi é o limite

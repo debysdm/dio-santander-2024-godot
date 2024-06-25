@@ -2,7 +2,63 @@
 
 ## Construindo um novo cenário
 ## Simulação física
+ * RigidBody2D
+	* CollisionShape2D
+		* ColorRect
+ * StaticBody2D
+	* CollisionShape2D
+		* ColorRect
+
 ## Materiais físicos
+
+ * RigidBody2D - Material físico (cai)
+ * StaticBody2D - Material estatico (não se move)
+
+Conseguimos mexer na massa do objeto e na fisica (RigidBody) - Como a força altera o objeto
+
+Materiais fisicos:
+Friction = Escorrega
+Bounce = Elásticidade
+
 ## Cenas e Nodes
+
+Painel "Filter Files" - Criar uma nova pasta, chamada objects
+
+Para transformar um objeto é preciso arrastar para dentro da pagina objects
+Cena é um grupo de Nodes
+
 ## Detectando o clique do mouse
+
+Dedectar o emput
+Criar um novo Node (puro), renomear para Game Manager. 
+Criar o Script - Chamado game_manage.gd dentro de uma pagina chamada scripts
+
+extends Node
+
+func _input(event: InputEvent) -> void:
+	if event is InputEventMouseButton:
+		if event.button_index = 1:
+			if event.pressed:
+				print(event)
+
 ## Dando vida ao jogo
+
+Nova função: 
+
+extends Node
+
+@export var object_templates: Array[PackedScene]
+
+func _input(event: InputEvent) -> void:
+	if event is InputEventMouseButton:
+		if event.button_index = 1:
+			if event.pressed:
+				spawn_object(event.position)
+
+
+
+func spawn_object(position: Vector2) -> void:
+	var index: int = randi_range(0, object_templantes.size() - 1)
+	var object_template = Object_templantes[index]
+	var object = object_template.instantiate()
+	add_child(object)
