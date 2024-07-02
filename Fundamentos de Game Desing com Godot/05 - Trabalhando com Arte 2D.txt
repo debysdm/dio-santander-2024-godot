@@ -1,8 +1,17 @@
 # Travalhando com Arte 2D
 
 ## Onde posso encontrar assets pro meu jogo?
+* Sites para encontrar pacotes de artes para projetos:
+	1º Opengameart.org - https://opengameart.org
+	2º Kenney - https://kenney.nl
+	3º Itch.io - htips://itch.io
+* Procurar a licença do pacote
 
 ## Como importar assets no Godot?
+*Fazer download do arquivo
+- Criar um novo projeto no Godot
+- Arrastar a pasta para dentro do Godot
+- 
 
 ## Configurando Tilemaps e Tilesets
 
