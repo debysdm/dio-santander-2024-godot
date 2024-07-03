@@ -15,16 +15,59 @@
 - boa pratica criar uma pasta chamda "addons" para deixar todo conteudo baixado de terceiros
 
 ## Configurando Tilemaps e Tilesets
-*Tilemaps - é um node para mapas 2d 
+*Tilemaps - é um node para mapas 2d  - Node do proprio Godot (Mundo onde desenha em tiles)
+*Tilesets - representação organizacional da imagem
+
 
 ## Adicionando colisão ao Tilesets
+Clicar no TileMaps
+TileSet selecionado
+No inspetor, Physics Layers (camadas de fisica para aplicar no tiles)
+Ao clicar tera duas opções Collision Layer e Collision Mask
+Vamos usar primeiro a Collision Layer
 
 ## Criando o mapa do jogo
+Criar o mundo da forma que achamos mais legal usando os tiles.
 
 ## Criando um personagem com física
+extends CharacterBody2D
 
-## Melhorando o scrpt do personagem
+const SPEED = 300.0
+
+func _physic_process(delta:
+	var direction = Input.get_vector("ui_left", "ui_right",
+"ui_up","ui_down")
+	velocity = direction *SPEED
+	Mmove_and_slide()
+
+## Melhorando o script do personagem
+
+extends CharacterBody2D
+
+
+@export var speed = 300.0
+@export_range(0, 1) var lerp_factor = 0.5
+
+@onready var sprite = %Sprite
+
+
+func _physic_process(delta):
+	var direction = Input.get_vector("ui_left", "ui_right",
+"ui_up","ui_down")
+	var target_velocity = direction * speed *100.0
+	velocity = lerp(veolocity, target_velocity, lerp_factor)
+	move_and_slide()
+
+	var target_rotation = dorection.x *45.0
+	sprite_rotation_degrees = lerp(spritte.rotation_degrees, target_rotation, lerp_factor)
 
 ## Ordem de renderização
+ZIndex = 0
+ZIndex = 1 - Terreno
+ZIndex = 2 - Colocar o personagems
+ZIndex = 3 - O que vai ficar na frente do personagem
+ 
 
 ## O céi é o limite
+Baixar arte no irch.io
+Buscar por assets - parallax
