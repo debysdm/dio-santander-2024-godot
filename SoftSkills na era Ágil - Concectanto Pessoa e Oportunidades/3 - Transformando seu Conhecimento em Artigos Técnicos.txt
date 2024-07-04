@@ -41,8 +41,26 @@ Chamar atenção para o assunto, que faça que a pessoa quera ler.
 Pesquisa é funda mental para embasar o artigo
 
 ## Storytelling
+
+Saber contar história
+"Contando uma História"
+
 ## Quanto mais Visual Melhor
+
+"Adicionando Imagens, links e Código fonte"
+Quanto mais lúdico melhor o artigo
+
 ## Colocar as Ideias para FLuir
+
+Escrever - Colocar as ideias para fluir
+Usar sempre word
+
 ## Validar e Revisar
+
+"Double check sempre"
+Sempre revisar, tomar cuidado com ortografia e gramatica.
+Máximo 3.000 - Usar controlador de caracteres
+Titulos com Capitalize: Use sempre captalize
+
 ## Criando um artigo Técnico na Prática
 ## Desafio Final

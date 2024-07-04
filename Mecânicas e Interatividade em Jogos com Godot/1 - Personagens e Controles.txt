@@ -1,0 +1,13 @@
+# Personagem e Controles
+
+## Um novo começo
+
+## Conhecendo nosso projeto
+## Escolhendo nosso personagem
+## Criando os alicerces do Player
+## Criando animações
+## Nota sobre o "Autoplay on Load"
+## Criando novas ações no InputMap
+## Corra, cavaleiro, corra!
+## Programando o ataque do personagem
+## Orhanizando o código do player
