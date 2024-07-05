@@ -3,6 +3,12 @@
 ## Um novo começo
 
 ## Conhecendo nosso projeto
+
+Criar apenas um projeto e ir melhorando até o final
+Pacote "Tiny Swords" no itch.io
+Camera "Top Down"
+
+
 ## Escolhendo nosso personagem
 ## Criando os alicerces do Player
 ## Criando animações
